@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner {
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url("IMG/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.container-nome-logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+.container-nome-logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+.container-nome-logo .nome-pet-shop {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+    font-weight: 800px;
+}
+ 
+.title {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px 0px #1f26875e;
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800px;
+    margin: 20px 0px 40px 0px;
+}
+
+.title a {
+    width: 200px;
+    padding: 20px;
+    background-color: #3c184e;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center; 
+    text-decoration: none;
+}
+
+.title img{width: 5px;}
+
+.serviços {
+    width: 100%;
+    padding: 100px 80px 100px 80px;
+    
+}
+
+.serviços-subtitulo{
+    text-align: center;
+    font-size: 36px;
+    color: #3c184e;
+    margin: 0px 0px 45px 0px;
+}
+
+.serviços-lista li{
+    max-width: 800px;
+    margin-bottom: 20px;
+    color: #3c184e;
+    font-size: 20px;
+
+}
+
+span {
+    font-weight: 700; 
+    font-style: italic;   
+}
+
+.galeria {
+    width: 1000px;
+    margin: 0px auto;
+    text-align: center
+}
+
+.galeria img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    
+}
+
+.faixa1 {
+    padding: 120px 80px;
+    background-color:#3c184e;
+    text-align: center;
+
+}
+
+
